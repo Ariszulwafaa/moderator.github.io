@@ -1,2 +1,0 @@
-# moderator
-Page Moderator
